@@ -1,10 +1,11 @@
 ## About me
 
-Eighth-semester (2026-1)
+Ninth-semester (2026-2)
 Computer Science /
 [Systems Engineering](https://www.eafit.edu.co/en/pregrados/escuela-ciencias-aplicadas-ingenieria/ingenieria-sistemas "Systems Engineering at Universidad EAFIT")
-student
-doing my internship
+student.
+
+I did my internship
 with the research project _«La forma de las ciudades»_
 of the
 [Nature and Cities Research Group](https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/investigacion/grupos-investigacion/naturaleza-ciudad)

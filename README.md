@@ -1,8 +1,7 @@
 ## About me
 
 Ninth-semester (2026-2)
-Computer Science /
-[Systems Engineering](https://www.eafit.edu.co/en/pregrados/escuela-ciencias-aplicadas-ingenieria/ingenieria-sistemas "Systems Engineering at Universidad EAFIT")
+[Information Systems Engineering](https://www.eafit.edu.co/en/pregrados/escuela-ciencias-aplicadas-ingenieria/ingenieria-sistemas "[Information] Systems Engineering at Universidad EAFIT")
 student.
 
 I did my internship
@@ -10,15 +9,14 @@ with the research project _«La forma de las ciudades»_
 of the
 [Nature and Cities Research Group](https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/investigacion/grupos-investigacion/naturaleza-ciudad)
 at
-[Universidad EAFIT](https://www.eafit.edu.co/).
+[Universidad EAFIT](https://www.eafit.edu.co/),
+located in Medellín, Colombia.
 
 ## Contact
 
-Check the GitHub sidebar of my profile
-and
-[the contact section of my personal website](https://luismtorresv.github.io/about/#contact).
+Academic email address on my GitHub profile.
 
-## Some repos
+## Some projects
 
 - [`fp-lfc`](https://github.com/luismtorresv/fp-lfc):
   Python implementation of top-down and bottom-up LR parsers

@@ -1,4 +1,4 @@
-## About me
+## About
 
 Ninth-semester (2026-2)
 [Information Systems Engineering](https://www.eafit.edu.co/en/pregrados/escuela-ciencias-aplicadas-ingenieria/ingenieria-sistemas "[Information] Systems Engineering at Universidad EAFIT")
@@ -8,7 +8,7 @@ student.
 
 Academic email address on my GitHub profile.
 
-## Some projects
+## Projects
 
 - [`fp-lfc`](https://github.com/luismtorresv/fp-lfc):
   Python implementation of top-down and bottom-up LR parsers

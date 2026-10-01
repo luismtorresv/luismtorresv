@@ -4,14 +4,6 @@ Ninth-semester (2026-2)
 [Information Systems Engineering](https://www.eafit.edu.co/en/pregrados/escuela-ciencias-aplicadas-ingenieria/ingenieria-sistemas "[Information] Systems Engineering at Universidad EAFIT")
 student.
 
-I did my internship
-with the research project _«La forma de las ciudades»_
-of the
-[Nature and Cities Research Group](https://www.eafit.edu.co/sistema-ciencia-tecnologia-innovacion/investigacion/grupos-investigacion/naturaleza-ciudad)
-at
-[Universidad EAFIT](https://www.eafit.edu.co/),
-located in Medellín, Colombia.
-
 ## Contact
 
 Academic email address on my GitHub profile.
